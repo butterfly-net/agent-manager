@@ -1,7 +1,7 @@
-package it.unibz.butterfly_net.template.application;
+package it.unibz.butterfly_net.agent_manager.application;
 
 import io.javalin.Javalin;
-import it.unibz.butterfly_net.template.core.utils.Config;
+import it.unibz.butterfly_net.agent_manager.core.utils.Config;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

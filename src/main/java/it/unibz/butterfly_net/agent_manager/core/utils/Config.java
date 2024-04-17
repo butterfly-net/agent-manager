@@ -1,4 +1,4 @@
-package it.unibz.butterfly_net.template.core.utils;
+package it.unibz.butterfly_net.agent_manager.core.utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;

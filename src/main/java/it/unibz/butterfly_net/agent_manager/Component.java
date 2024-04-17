@@ -1,6 +1,6 @@
-package it.unibz.butterfly_net.template;
+package it.unibz.butterfly_net.agent_manager;
 
-import it.unibz.butterfly_net.template.application.HttpServer;
+import it.unibz.butterfly_net.agent_manager.application.HttpServer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
